@@ -11,3 +11,4 @@ Join the crew of the Dragons Not Included podcast as they roll, crit and laugh t
 - [Dragons Not Included @ Podbean](https://dragonsnotincluded.podbean.com/) ([RSS](https://feed.podbean.com/dragonsnotincluded/feed.xml))
 - [@PodcastDragons on Twitter](https://twitter.com/PodcastDragons)
 - [Dragons Not Included Podcast on Facebook](https://www.facebook.com/Dragons-Not-Included-Podcast-103097024812637)
+- 📫 [Email [d]ragonsnotincludedpod@gmail.com](mailto:[d]ragonsnotincludedpod@gmail.com) (remove [a]ntispam brackets)
