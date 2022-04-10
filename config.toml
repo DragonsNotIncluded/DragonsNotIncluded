@@ -6,6 +6,9 @@ copyright = "2020-2022, Dragons Not Included."
 theme = "hugo-theme-diary"
 # googleAnalytics = "UA-123-45"
 
+# recommended for GitHub pages
+publishDir = 'docs'
+
 [markup]
   [markup.highlight]
     codeFences = true
